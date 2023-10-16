@@ -19,6 +19,7 @@
 				<li><a href="contact.php">ติดต่อ</li>
 				<li><a href="contact.php">รายการข้อมูลภายในหอพัก</li>
                 <li><a href="contact.php">ตำแหน่งของหอพัก</li>
+                <li><a href="contact.php">รอบที่ 3 แล้ว</li>
 				</ul><p>
 				<?php include "login_form.php";?>
 			</td>
